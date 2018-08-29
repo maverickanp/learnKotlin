@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearnKotlin</string>
+    <string name="note_title">Título</string>
+    <string name="note_description">Descrição</string>
+</resources>
